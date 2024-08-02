@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "Subway Sandwich 1", "description": "Delicious sandwich with fresh ingredients." },
+    { "id": 2, "name": "Subway Sandwich 2", "description": "Tasty sandwich with a variety of flavors." },
+    { "id": 3, "name": "Subway Sandwich 3", "description": "Healthy sandwich with organic vegetables." },
+    { "id": 4, "name": "Subway Sandwich 4", "description": "Spicy sandwich with a kick of jalapenos." },
+    { "id": 5, "name": "Subway Sandwich 5", "description": "Classic sandwich with ham and cheese." },
+    { "id": 6, "name": "Subway Sandwich 6", "description": "Vegan sandwich with plant-based ingredients." }
+]
