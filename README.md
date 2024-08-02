@@ -7,7 +7,7 @@ The Subway Food Order App is a web application designed to streamline the proces
 
 ## Installation
 1. *Clone the Repository*
-    git clone https://github.com/your-username/subway-food-order.git
+    git clone https://github.com/Nav-2023/Microproject-of-Javascript-frameworks
     
 2. *Navigate to the Project Directory*
    Micro-project
